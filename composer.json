@@ -1,0 +1,10 @@
+{
+    "name": "mjs/name",
+    "license": "MIT",
+    "minimum-stability": "alpha",
+    "require": {
+        "google/apiclient": "2.0",
+        "joshtronic/php-googleplaces": "dev-master",
+        "m1/env": "^2.1"
+    }
+}
